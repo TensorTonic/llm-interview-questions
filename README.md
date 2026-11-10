@@ -113,6 +113,8 @@ To go deeper than single questions, the [Build LLM from Scratch](https://www.ten
 
 If you want to build the model yourself instead of studying it one question at a time, the [How to Build an LLM from Scratch](https://www.tensortonic.com/guides/build-an-llm-from-scratch) guide walks through the stages in order, from tokens and embeddings to generation, and lists the mistakes people make when joining the pieces.
 
+For a written walkthrough of how to prepare, the [LLM Interview Questions](https://www.tensortonic.com/guides/llm-interview-questions) guide explains how to answer the questions interviewers ask most often about large language models.
+
 ## License
 
 MIT
