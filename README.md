@@ -111,6 +111,8 @@ Later rounds ask whether you can judge a model and build a product around it. Th
 
 To go deeper than single questions, the [Build LLM from Scratch](https://www.tensortonic.com/study-plans/language-modeling-from-scratch) study plan walks through a full language model piece by piece, and the [Inference Engineering](https://www.tensortonic.com/study-plans/cracking-inference) plan covers serving in the same way. The [LLM Internals](https://www.tensortonic.com/llm-internals) pages have visual explanations of most topics above, and the [Transformer research track](https://www.tensortonic.com/research/transformer/transformers-attention) rebuilds the original paper step by step.
 
+If you want to build the model yourself instead of studying it one question at a time, the [How to Build an LLM from Scratch](https://www.tensortonic.com/guides/build-an-llm-from-scratch) guide walks through the stages in order, from tokens and embeddings to generation, and lists the mistakes people make when joining the pieces.
+
 ## License
 
 MIT
