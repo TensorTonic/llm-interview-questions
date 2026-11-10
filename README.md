@@ -117,6 +117,8 @@ For a written walkthrough of how to prepare, the [LLM Interview Questions](https
 
 If you are interviewing for a research engineer role, the [Research Engineer Interview Preparation](https://www.tensortonic.com/guides/research-engineer-interview-preparation) guide explains how to prepare for those interviews, and the [NLP Interview Questions](https://www.tensortonic.com/guides/nlp-interview-questions) guide covers the language processing questions that are often asked alongside the LLM ones.
 
+If you are interviewing for an AI engineer role, the [AI Engineer Interview Questions](https://www.tensortonic.com/guides/ai-engineer-interview-questions) guide covers the questions asked about building applications on top of language models.
+
 ## License
 
 MIT
