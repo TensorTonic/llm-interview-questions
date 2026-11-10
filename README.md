@@ -115,6 +115,8 @@ If you want to build the model yourself instead of studying it one question at a
 
 For a written walkthrough of how to prepare, the [LLM Interview Questions](https://www.tensortonic.com/guides/llm-interview-questions) guide explains how to answer the questions interviewers ask most often about large language models.
 
+If you are interviewing for a research engineer role, the [Research Engineer Interview Preparation](https://www.tensortonic.com/guides/research-engineer-interview-preparation) guide explains how to prepare for those interviews, and the [NLP Interview Questions](https://www.tensortonic.com/guides/nlp-interview-questions) guide covers the language processing questions that are often asked alongside the LLM ones.
+
 ## License
 
 MIT
